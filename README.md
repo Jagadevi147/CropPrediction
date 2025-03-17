@@ -1,13 +1,16 @@
 This is my first mini project 
 <br>
 Analysis and Prediction of Agricultural Crop Production in India
+<br>
 Project Overview
+<br>
 This project analyzes agricultural crop production data across different Indian states and predicts future rice production using machine learning. The analysis includes:
 Identifying top-producing states for rice, wheat, oilseeds, and sunflower
 Visualizing crop production trends using bar charts and pie charts
 Predicting future rice production using Linear Regression
-
+<br>
 Dataset
+<br>
 The project uses the ICRISAT-District Level Data.csv dataset.
 Columns include:
 State Name: Name of the Indian state
@@ -16,8 +19,9 @@ RICE PRODUCTION (1000 tons): Rice production in thousands of tons
 WHEAT PRODUCTION (1000 tons): Wheat production
 OILSEEDS PRODUCTION (1000 tons): Oilseeds production
 SUNFLOWER PRODUCTION (1000 tons): Sunflower production
-
+<br>
 Technologies Used
+<br>
 Programming Language: Python
 Libraries Used:
 pandas - for data processing
@@ -25,8 +29,9 @@ numpy - for numerical operations
 matplotlib & seaborn - for data visualization
 sklearn - for machine learning (Linear Regression)
 
-
+<br>
 Installation & Usage
+<br>
 1. Clone the Repository
 git clone https://github.com/yourusername/crop-production-analysis.git
 cd crop-production-analysis
